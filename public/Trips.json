@@ -1,0 +1,144 @@
+[
+    {
+        "start": "Albuquerque, NM",
+        "end": "San Francisco, CA",
+        "yt_timelapse": "o8QA06lL4VQ",
+        "yt_raw": "wIYt79WVRjg",
+        "map": "189grh_29IgnYZlqn9OQ6zbNooWQC1Vw",
+        "length": 1609,
+        "game": "ats",
+        "date": "2023-05-19",
+        "cities": [
+            [
+                "Albuquerque",
+                "New Mexico"
+            ],
+            [
+                "Acomita Lake",
+                "New Mexico"
+            ],
+            [
+                "Gallup",
+                "New Mexico"
+            ],
+            [
+                "Holbrook",
+                "Arizona"
+            ],
+            [
+                "Flagstaff",
+                "Arizona"
+            ],
+            [
+                "Kingman",
+                "Arizona"
+            ],
+            [
+                "Las Vegas",
+                "Nevada"
+            ],
+            [
+                "Rachel",
+                "Nevada"
+            ],
+            [
+                "Tonopah",
+                "Nevada"
+            ],
+            [
+                "Groveland",
+                "California"
+            ],
+            [
+                "Oakdale",
+                "California"
+            ],
+            [
+                "Oakland",
+                "California"
+            ],
+            [
+                "San Francisco",
+                "California"
+            ]
+        ]
+    },
+    {
+        "start": "Austin, TX",
+        "end": "Alexandria, LA",
+        "yt_timelapse": "jfQtckwEvs4",
+        "map": "1sX6hp95UIxjKhf2NQF6h75pdDrD0NxY",
+        "length": 512,
+        "game": "ats",
+        "date": "2023-05-18",
+        "cities": [
+            [
+                "Austin",
+                "Texas"
+            ],
+            [
+                "Houston",
+                "Texas"
+            ],
+            [
+                "Livingston",
+                "Texas"
+            ],
+            [
+                "Woodville",
+                "Texas"
+            ],
+            [
+                "Jasper",
+                "Texas"
+            ],
+            [
+                "Bronson",
+                "Texas"
+            ],
+            [
+                "Natchitoches",
+                "Louisiana"
+            ],
+            [
+                "Chopin",
+                "Louisiana"
+            ],
+            [
+                "Alexandria",
+                "Louisiana"
+            ]
+        ]
+    },
+    {
+        "start": "Denver, CO",
+        "end": "Laramie, WY",
+        "yt_timelapse": "bvUN0jqlndU",
+        "map": "1vrTQdoLNjDVH2ZhUlqOJvGtQfH4_hj4",
+        "length": 353,
+        "game": "ats",
+        "date": "2023-05-18",
+        "cities": [
+            [
+                "Limon",
+                "Colorado"
+            ],
+            [
+                "Denver",
+                "Colorado"
+            ],
+            [
+                "Fort Collins",
+                "Colorado"
+            ],
+            [
+                "Cheyenne",
+                "Wyoming"
+            ],
+            [
+                "Laramie",
+                "Wyoming"
+            ]
+        ]
+    }
+]
